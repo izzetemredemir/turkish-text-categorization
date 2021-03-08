@@ -1,5 +1,5 @@
-# topic-extraction
-Simple Turkish text categorization nlp project.
+
+# Simple Turkish text categorization nlp project.
 
 Dataset: https://www.kaggle.com/savasy/ttc4900
 
