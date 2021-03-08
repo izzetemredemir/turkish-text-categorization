@@ -1,5 +1,5 @@
 
-# Simple Turkish text categorization nlp project.
+# Turkish text categorization nlp project.
 
 Dataset: https://www.kaggle.com/savasy/ttc4900
 
